@@ -1,0 +1,5 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/icons_plus" android:state_enabled="true" />
+    <item android:drawable="@mipmap/icons_checked" android:state_enabled="false" />
+    <item android:drawable="@mipmap/icons_plus" />
+</selector>
